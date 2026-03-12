@@ -1,5 +1,7 @@
 /**
- * LinkedIn Comment Generator
+ * LinkedIn AI Comment & Reply Generator
+ * Author: MasterJi27
+ * GitHub: https://github.com/MasterJi27/LinkedIn-Comment-Generator
  * Debug logging utility with production-ready configuration
  */
 const debug = {
