@@ -68,7 +68,7 @@ LinkedIn Page (HTTPS)
        │  fetch()                                                   │
        ▼                                                            │
  N8N Webhook                                                        │
- https://n8n.devflow.me/webhook/linkedin-comment                    │
+ https://n8n/webhook/linkedin-comment                               │
        │  OpenRouter API call                                       │
        ▼                                                            │
  Nvidia Nemotron Super 120B  (nvidia/nemotron-3-super-120b-a12b:free)
