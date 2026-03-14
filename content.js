@@ -125,7 +125,7 @@ const API_CONFIG = {
      * N8N Webhook endpoint with OpenRouter integration
      * Note: Must use HTTPS when calling from LinkedIn (HTTPS site)
      */
-    URL: 'https://n8n.devflow.me/webhook/linkedin-comment',
+    URL: 'Use your Webhook URL',
     
     /**
      * Maximum number of retries for API calls
