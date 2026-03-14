@@ -10,7 +10,7 @@
   ],
   "host_permissions": [
     "https://*.linkedin.com/*",
-    "https://n8n.devflow.me/*",
+    "https://n8n/*",
     "https://n8nworkspace.dpdns.org/*"
   ],
   "content_scripts": [
