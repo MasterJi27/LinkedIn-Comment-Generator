@@ -191,7 +191,7 @@ All configuration lives at the top of `content.js`:
 
 ```js
 const API_CONFIG = {
-    URL: 'https://n8n.devflow.me/webhook/linkedin-comment',  // Your N8N webhook
+    URL: 'https://n8n/webhook/linkedin-comment',  // Your N8N webhook
     MAX_RETRIES: 2,        // Retry attempts on failure
     TIMEOUT_MS: 30000      // Per-request timeout (ms)
 };
